@@ -36,7 +36,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.ALEXANDRITE_BLOCK.get());
                         pOutput.accept(ModBlocks.ALEXANDRITE_ORE.get());
                         pOutput.accept(ModBlocks.ALEXANDRITE_DEEPSLATE_ORE.get());
-
+                        pOutput.accept(ModBlocks.MAGIC_BLOCK.get());
 
                     }).build());
 
