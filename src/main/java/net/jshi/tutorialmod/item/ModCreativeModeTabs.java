@@ -22,6 +22,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.ALEXANDRITE.get());
                         pOutput.accept(ModItems.RAW_ALEXANDRITE.get());
                         pOutput.accept(ModItems.CHISEL.get());
+                        pOutput.accept(ModItems.KOHLRABI.get());
+                        pOutput.accept(ModItems.AURORA_ASHES.get());
 
 
                     }).build());
